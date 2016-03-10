@@ -1,0 +1,4 @@
+Please note that:
+* some tests may need manual restart of RabbitMQ service
+* RabbitMQ management plugin with guest/guest user should be installed
+* test cases are only there to illustrate separated behaviour of RabbitMQ features; they can not work correctly when executed together
